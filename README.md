@@ -7,6 +7,8 @@ This exercise with MIT Professional Certification course in Full-Stack Engineeri
 How to Run
 Load the index.html file. Notice the eyes follow your mouse as it moves across the screen. Future improvements would include adding interactive features to the page, such as blinks on click.
 
+Future improvements would be making the eyes blink one at a time or both at same time.
+
 License
 MIT License
 
